@@ -56,6 +56,6 @@ againbtn.addEventListener('click', () => {
     showScore.textContent = score;
     number.textContent = '?';
     guess.value = '';
-    container.style.backgroundColor = '#222';
+    container.style.backgroundColor = '#1c2c54';
     number.style.width = '15rem';
 });
